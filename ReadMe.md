@@ -1,21 +1,17 @@
-```
+# Olá, Bem vindo ao meu projeto de portfólio.
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](/assets/Preview.jpeg)
 
 ## Ferramentas utilizadas:
 
-* HTML
+- HTML
 
-* CSS
+- CSS
 
-* Flex-box
+- Flex-box
 
 ## Feito por:
 
-### Joana Santos
+### Murilo Roberto
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
-```
+### Linkedin: https://www.linkedin.com/in/murilo-roberto-magalh%C3%A3es-costa-9172171b7/
