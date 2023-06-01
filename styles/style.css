@@ -16,6 +16,39 @@
     text-decoration: none;
 }
 
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-button{
+    cursor: pointer;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px var(--cor-destaque); 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 5px var(--hover);
+    background: var(--cor-destaque); 
+    border-radius: 0.66rem;
+  }
+
+  ::selection {
+    color: var(--cor-secundaria);
+    background: var(--cor-destaque);
+  }
+
+  .rodape::selection{
+    color: var(--cor-destaque);
+    background: var(--cor-secundaria);
+  }
+
 body{
     box-sizing: border-box;
     background-color: var(--cor-secundaria);
@@ -58,7 +91,7 @@ body{
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 3.2rem;
+    font-size: 3.7rem;
     font-family: var(--font-krona);
 }
 
