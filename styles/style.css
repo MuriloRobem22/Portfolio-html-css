@@ -176,6 +176,15 @@ background: linear-gradient(90deg, var(--2cor-divider), var(--cor-divider) 50%, 
     color: var(--cor-text-principal);
 }
 
+.texto__links{
+    color: var(--cor-destaque);
+    transition:  all .3s;
+}
+.texto__links:hover{
+    color: var(--hover);
+    transition:  all .3s;
+}
+
 /* responsibilidade*/
 
 @media (min-width: 414px) and (max-width: 1200px) 
