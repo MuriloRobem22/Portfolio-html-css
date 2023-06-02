@@ -80,9 +80,9 @@ body{
 .apresentacao{
     padding: 5% 9%;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
-    gap: 4.4rem;
+    gap: .4rem;
 
 }
 .apresentacao__conteudo{
@@ -107,7 +107,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 2.6rem;
+    gap: .8rem;
 }
 
 .apresentacao__links__subtitulo{
