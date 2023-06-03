@@ -2,6 +2,8 @@
 
 ![image](/assets/Preview.jpeg)
 
+### Link do site: https://portfolio-html-css-omega.vercel.app/index.html
+
 ## Ferramentas utilizadas:
 
 - HTML
